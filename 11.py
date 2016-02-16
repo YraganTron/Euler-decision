@@ -50,8 +50,6 @@ if max_1 >= max_2:
 else:
     print(max_2)
 
-print(len(a))
-print(len(a[0]))
 
 
 
