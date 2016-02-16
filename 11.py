@@ -40,12 +40,10 @@ while x != 0:
     b.clear()
     x -= 1
 
-#for line in a:
-    #print(" ".join(map(str, line)))
 
 for row in a:
     for col in row:
-        print('%2d'%col, end='')
+        print('%3d'%col, end='')
     print()
 
 
