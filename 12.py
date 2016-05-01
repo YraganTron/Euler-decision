@@ -17,4 +17,4 @@ while q == 0:
     n = 1
     k += 1
 
-print(k)    
+print(triangle)    
